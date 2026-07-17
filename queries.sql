@@ -1,7 +1,6 @@
--- ============================================================
+
 -- Project 3: SQL Data Analysis  |  DecodeLabs
 -- Dataset: clean_dataset.xlsx  (Sheet: Cleaned_Data, 1200 orders)
--- ============================================================
 
 -- 1. Basic SELECT: core order details
 SELECT OrderID, Product, Quantity, UnitPrice, TotalPrice
