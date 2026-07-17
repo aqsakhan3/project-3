@@ -1,7 +1,5 @@
  SQL Data Analysis — E-Commerce Order Insights
 
-Project 3 — DecodeLabs Data Analytics Track
-
  Overview:
 
 This project applies core SQL techniques to a cleaned e-commerce dataset in order to extract measurable business insight from raw transactional data. The objective was to demonstrate proficiency in structured querying,filtering, sorting, grouping, and aggregating  and to translate those query results into findings relevant to business decision-making.
